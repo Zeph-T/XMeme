@@ -1,6 +1,6 @@
 #!/bin/bash
 
-
+# Updated from Github
 # git clone the repo
 
 # cd to the cloned repo directory
